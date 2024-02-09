@@ -1,0 +1,10 @@
+{
+  "item.fireworkpouch.firework_pouch": "Firework Pouch",
+  "fireworkpouch.tooltip.count": "Count",
+  "fireworkpouch.tooltip.flight_duration": "Flight Duration",
+  "creativetab.fireworkpouch":  "Firework Pouch",
+  "key.fireworkpouch.rocket_key": "Rocket Key",
+  "key.categories.fireworkpouch": "Firework Pouch",
+
+  "message.fireworkpouch.rocket_key_pressed": "key press"
+}
